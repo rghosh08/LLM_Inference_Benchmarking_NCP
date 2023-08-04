@@ -1,4 +1,4 @@
-🤖 # LLM Inference Benchmarking on Nutanix Cloud Platform
+# 🤖 LLM Inference Benchmarking on Nutanix Cloud Platform
 
 ## 🤔 What is this?
 
