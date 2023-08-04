@@ -1,7 +1,7 @@
-# LLM Inference Benchmarking on Nutanix Cloud Platform
+🤖 # LLM Inference Benchmarking on Nutanix Cloud Platform
 
 ## 🤔 What is this?
----
+
 It is a benchmarking tool for the evaluation of the inference latency of a Hugging Face model. 
 
 ## 🚀 Reproducing the Results
